@@ -34,8 +34,8 @@
 	<!--banner shape-->
 	<div class="shape-header">
 		<div class="small-shape"></div>
-		<div class="big-left"><img src="images/shape-left.png" alt=""></div>
-		<div class="shape-right"><img src="images/shape-right.png" alt=""></div>
+		<div class="big-left"><img src="front_end/images/shape-left.png" alt=""></div>
+		<div class="shape-right"><img src="front_end/images/shape-right.png" alt=""></div>
 	</div>	<!--close shape-->
 	<!--banner nav-->
 	<div class="nav-header">
